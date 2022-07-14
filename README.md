@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [W3Schools CSS Background Position Reference]([https://www.example.com](https://www.w3schools.com/cssref/pr_background-position.asp)) - This helped me in the Positioning of the background image on the site.
+- [W3Schools CSS Background Position Reference](https://www.w3schools.com/cssref/pr_background-position.asp) - This helped me in the Positioning of the background image on the site.
 
 
 ## Author
