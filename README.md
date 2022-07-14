@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Git Hub Repo Link](https://github.com/Mharvel13/Order-Summary-Component)
+- Live Site URL: [Live Site ](https://mharvel13.github.io/Order-Summary-Component/)
 
 ## My process
 
@@ -34,16 +34,16 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
+
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+- [W3Schools CSS Background Position Reference]([https://www.example.com](https://www.w3schools.com/cssref/pr_background-position.asp)) - This helped me in the Positioning of the background image on the site.
 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [Marvel Victor](https://www.frontendmentor.io/profile/Mharvel13)
+- Twitter - [Marvel](https://twitter.com/Mharvel_O)
 
 
